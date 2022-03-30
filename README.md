@@ -1,5 +1,5 @@
 
-<img width="60%" src="https://user-images.githubusercontent.com/93780179/159483914-8c464afc-56f3-469e-a788-16c9c2b8e959.jpg"/>
+<img width="100%" src="https://user-images.githubusercontent.com/93780179/159483914-8c464afc-56f3-469e-a788-16c9c2b8e959.jpg"/>
 
 
 <h1 align="center"> Hi 👋, I'm Pablo </h1>
