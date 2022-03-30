@@ -23,3 +23,28 @@ const Bufalito = {
   Aspirations: ['FrontEnd Developer', 'CloudComputing', 'MachineLearning']
 }
 ```
+
+## 📊 Github Stats
+
+
+
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Bufalito's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Bufalito&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+<br/>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bufalito&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Bufalito" height="192px"/>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
+
+----
+
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/Bufalito"><img alt="Bufalito's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Bufalito&custom_title=Bufalito's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+
+
+<br/>
