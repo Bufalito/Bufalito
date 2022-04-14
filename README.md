@@ -66,6 +66,13 @@ const Bufalito = {
 <br>
 Technologies: Node.JS - Express - PostgreSQL - React - Redux - TailwindCSS</p>
 
+<h4>Interactive Rating App</h4>
+<p>💬 Finished! 
+www.rating-component-pablo.netlify.app
+<br>
+Technologies: HTML-CSS-SASS-JavaScript</p>
+
+
 ---
 
 <h3 align="left">📪 How to reach me:</h3>
