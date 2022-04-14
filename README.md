@@ -68,7 +68,7 @@ Technologies: Node.JS - Express - PostgreSQL - React - Redux - TailwindCSS</p>
 
 <h4>Interactive Rating App</h4>
 <p>💬 Finished! 
-www.rating-component-pablo.netlify.app
+<h4><a href="https://rating-component-pablo.netlify.app/">Interactive Rating Component</a></h4>
 <br>
 Technologies: HTML-CSS-SASS-JavaScript</p>
 
