@@ -61,11 +61,12 @@ const Bufalito = {
 <a> <img src="https://user-images.githubusercontent.com/93780179/162127027-c65337b6-1486-4a91-acce-571f60e11985.png" width="500" height="285"> </a>
 </p>
 <br>
+---
 <h4>E-Commerce</h4>
 <p>💬 Working on it! 
 <br>
 Technologies: Node.JS - Express - PostgreSQL - React - Redux - TailwindCSS</p>
-
+---
 <h4>Interactive Rating App</h4>
 <p>💬 Finished! 
 <h4><a href="https://rating-component-pablo.netlify.app/">Interactive Rating Component</a></h4>
