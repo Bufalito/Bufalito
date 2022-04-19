@@ -63,7 +63,8 @@ const Bufalito = {
 <br>
 ---
 <h4>E-Commerce</h4>
-<p>💬 Working on it! 
+<p>💬 Finished!
+<h4><a href="https://tech-store-dev.vercel.app/">E-Commerce-TechStore</a></h4>
 <br>
 Technologies: Node.JS - Express - PostgreSQL - React - Redux - TailwindCSS</p>
 ---
