@@ -73,6 +73,12 @@ Technologies: Node.JS - Express - PostgreSQL - React - Redux - TailwindCSS</p>
 <h4><a href="https://rating-component-pablo.netlify.app/">Interactive Rating Component</a></h4>
 <br>
 Technologies: HTML-CSS-SASS-JavaScript</p>
+---
+<h4>NFT-preview-card-component</h4>
+<p>💬 Finished! 
+<h4><a href="https://nft-preview-card-component-pablo.netlify.app/">NFT-preview-card-component</a></h4>
+<br>
+Technologies: HTML-CSS</p>
 
 
 ---
