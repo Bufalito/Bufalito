@@ -3,7 +3,7 @@
 
 
 <h1 align="center"> Hi 👋, I'm Pablo </h1>
-<h3 align="center"> A passionate frontend developer from Argentina</h3>
+<h3 align="center"> A passionate Full Stack Developer from Argentina</h3>
 
 ```JS
 const Bufalito = {
@@ -12,7 +12,7 @@ const Bufalito = {
           {JavaScript: ['NodeJs', 'Express', 'Sequelize']},
         ],
       FrontEnd: [
-          {JavaScript: ['React', 'React-Native', 'Redux', 'CSS' , 'HTML']}
+          {JavaScript: ['React', 'Redux', 'CSS' , 'HTML']}
         ]
     },
   Proyects: [
