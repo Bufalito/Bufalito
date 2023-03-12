@@ -1,5 +1,5 @@
 
-<img width="50%" margin="0 auto" src="https://user-images.githubusercontent.com/93780179/224520431-7bf8d665-32ce-46dc-ae10-44df3ae278cb.jpg"/>
+<img width="50%" margin="auto" src="https://user-images.githubusercontent.com/93780179/224520431-7bf8d665-32ce-46dc-ae10-44df3ae278cb.jpg"/>
 
 
 
@@ -16,13 +16,13 @@ const Bufalito = {
           {JavaScript: ['React', 'Redux', 'CSS' , 'HTML']}
         ]
     },
-  Proyects: [
-      {e-commerce: ['React', 'Redux', 'NodeJs', 'Express', 'Sequelize', 'CSS' , 'TailwindCSS']},
-      {Oficina virtual Baldoni Viajes: ['React', 'HTML', 'CSS']},
-      {Harvey - Diseño de indumentaria escolar: ['React', 'HTML', 'CSS']}
+  Proyectos: [
+      {Ecommerce: ['React', 'Redux', 'NodeJs', 'Express', 'Sequelize', 'CSS' , 'TailwindCSS']},
+      {OficinaVirtual: ['React', 'HTML', 'CSS']},
+      {Harvey: ['React', 'HTML', 'CSS']}
     ],
-  FutureTecnologies: ['PHP', 'Astro', 'Next.Js', 'Go',],
-  Aspirations: ['FrontEnd Developer', 'CloudComputing', 'MachineLearning']
+  TecnologiasFuturas: ['PHP', 'Astro', 'Next.Js', 'Go',],
+  Aspiraciones: ['FrontEnd Developer', 'CloudComputing', 'MachineLearning']
 }
 ```
 
@@ -30,33 +30,29 @@ const Bufalito = {
 
 
 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <summary><b>💻 Estadísticas del perfil de GitHub</b></summary>
   <br/>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Bufalito's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Bufalito&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
+----
+<br/>
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bufalito&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Bufalito" height="192px"/>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <b>Note:</b>Los idiomas principales son solo una métrica de los idiomas en los que se compone mi código público y no reflejan la experiencia o el nivel de habilidad.
   </p>
 
 ----
-
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/Bufalito"><img alt="Bufalito's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Bufalito&custom_title=Bufalito's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
 
 <br/>
 
 
 
-<h3 align="left">📌Proyects:</h3>
+<h3 align="left">📌Proyectos:</h3>
 <h4>Dogs App</h4>
 <p>Technologies: Node.JS - Express - PostgreSQL - React - Redux - CSS</p>
-<p width="100%" display="flex" flex-wrap="wrap">
+<p width="100%" display="flex" flex-wrap="wrap" gap="4px">
 <a> <img src="https://user-images.githubusercontent.com/93780179/162127006-2b9e8b72-eea3-4618-b0e1-8bdbfdc1d4ef.png" width="500" height="285"> </a>
 <a> <img src="https://user-images.githubusercontent.com/93780179/162127015-555f9dd9-f744-4f4f-9b52-ffaf4b6e67eb.png" width="500" height="285"> </a>
 <a> <img src="https://user-images.githubusercontent.com/93780179/162127023-29347f98-4f83-4356-8148-0801e4ddda40.png" width="500" height="285"> </a>
@@ -65,9 +61,10 @@ const Bufalito = {
 <br>
 ---
 <h4>E-Commerce</h4>
-<p>💬 Finished!
+<p>💬 Broken!
 <h4><a href="https://tech-store-dev.vercel.app/">E-Commerce-TechStore</a></h4>
-<br>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=EAgMrp_CoF0&ab_channel=matiasvaldez" frameborder="0" allowfullscreen></iframe>
+<br/>
 Technologies: Node.JS - Express - PostgreSQL - React - Redux - TailwindCSS</p>
 ---
 <h4>Interactive Rating App</h4>
