@@ -56,10 +56,10 @@ const Bufalito = {
 <h1>Dogs App</h1>
 <p>Technologies: Node.JS - Express - PostgreSQL - React - Redux - CSS</p>
 <p width="100%">
-<a> <img src="https://user-images.githubusercontent.com/93780179/162127006-2b9e8b72-eea3-4618-b0e1-8bdbfdc1d4ef.png" width="25%" height="auto"> </a>
-<a> <img src="https://user-images.githubusercontent.com/93780179/162127015-555f9dd9-f744-4f4f-9b52-ffaf4b6e67eb.png" width="25%" height="auto"> </a>
-<a> <img src="https://user-images.githubusercontent.com/93780179/162127023-29347f98-4f83-4356-8148-0801e4ddda40.png" width="25%" height="auto"> </a>
-<a> <img src="https://user-images.githubusercontent.com/93780179/162127027-c65337b6-1486-4a91-acce-571f60e11985.png" width="25%" height="auto"> </a>
+<a> <img src="https://user-images.githubusercontent.com/93780179/162127006-2b9e8b72-eea3-4618-b0e1-8bdbfdc1d4ef.png" width="22%" height="auto"> </a>
+<a> <img src="https://user-images.githubusercontent.com/93780179/162127015-555f9dd9-f744-4f4f-9b52-ffaf4b6e67eb.png" width="22%" height="auto"> </a>
+<a> <img src="https://user-images.githubusercontent.com/93780179/162127023-29347f98-4f83-4356-8148-0801e4ddda40.png" width="22%" height="auto"> </a>
+<a> <img src="https://user-images.githubusercontent.com/93780179/162127027-c65337b6-1486-4a91-acce-571f60e11985.png" width="22%" height="auto"> </a>
 </p>
 <br>
 ---
