@@ -1,5 +1,5 @@
 
-<img width="50%" align="center" src="https://user-images.githubusercontent.com/93780179/224520431-7bf8d665-32ce-46dc-ae10-44df3ae278cb.jpg"/>
+<img width="50%" margin-left="100%" margin-rigth="auto" src="https://user-images.githubusercontent.com/93780179/224520431-7bf8d665-32ce-46dc-ae10-44df3ae278cb.jpg"/>
 
 
 
@@ -43,7 +43,7 @@ const Bufalito = {
 	</a>
 <br/>
 	
-  <b>Note:</b>Los idiomas principales son solo una métrica de los idiomas en los que se compone mi código público y no reflejan la experiencia o el nivel de habilidad.
+  <b>Nota:</b>Los idiomas principales son solo una métrica de los idiomas en los que se compone mi código público y no reflejan la experiencia o el nivel de habilidad.
 	
   </p>
 
