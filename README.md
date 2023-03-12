@@ -1,10 +1,8 @@
 
 <img width="50%" margin-left="100%" margin-rigth="auto" src="https://user-images.githubusercontent.com/93780179/224520431-7bf8d665-32ce-46dc-ae10-44df3ae278cb.jpg"/>
 
-
-
 <h1 align="center"> Hi 👋, I'm Pablo </h1>
-<h3 align="center"> Soy un desarrollador web apasionado nacido en Argentina <img width="100%" src="https://iconos8.es/icon/KWa9E2qJeoWV/argentina" /></h3>
+<h3 align="center"> Un apasionado desarrollador web Argentino <img width="100%" src="(https://user-images.githubusercontent.com/93780179/224521236-9b99f3e8-532a-4d32-862b-e40df65b7a71.png)" /></h3>
 
 ```JS
 const Bufalito = {
