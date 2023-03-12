@@ -1,9 +1,10 @@
 
-<img width="100%" src="https://user-images.githubusercontent.com/93780179/159483914-8c464afc-56f3-469e-a788-16c9c2b8e959.jpg"/>
+<img width="50%" margin="0 auto" src="https://user-images.githubusercontent.com/93780179/224520431-7bf8d665-32ce-46dc-ae10-44df3ae278cb.jpg"/>
+
 
 
 <h1 align="center"> Hi 👋, I'm Pablo </h1>
-<h3 align="center"> A passionate Full Stack Developer from Argentina</h3>
+<h3 align="center"> Soy un desarrollador web apasionado nacido en Argentina <img width="100%" src="https://iconos8.es/icon/KWa9E2qJeoWV/argentina" /></h3>
 
 ```JS
 const Bufalito = {
@@ -17,9 +18,10 @@ const Bufalito = {
     },
   Proyects: [
       {e-commerce: ['React', 'Redux', 'NodeJs', 'Express', 'Sequelize', 'CSS' , 'TailwindCSS']},
-      {PiDogs: ['React', 'Redux', 'NodeJs', 'Express', 'Sequelize', 'CSS']}
+      {Oficina virtual Baldoni Viajes: ['React', 'HTML', 'CSS']},
+      {Harvey - Diseño de indumentaria escolar: ['React', 'HTML', 'CSS']}
     ],
-  FutureTecnologies: ['PHP', 'Python', 'Java', 'Go',],
+  FutureTecnologies: ['PHP', 'Astro', 'Next.Js', 'Go',],
   Aspirations: ['FrontEnd Developer', 'CloudComputing', 'MachineLearning']
 }
 ```
@@ -54,7 +56,7 @@ const Bufalito = {
 <h3 align="left">📌Proyects:</h3>
 <h4>Dogs App</h4>
 <p>Technologies: Node.JS - Express - PostgreSQL - React - Redux - CSS</p>
-<p float="left">
+<p width="100%" display="flex" flex-wrap="wrap">
 <a> <img src="https://user-images.githubusercontent.com/93780179/162127006-2b9e8b72-eea3-4618-b0e1-8bdbfdc1d4ef.png" width="500" height="285"> </a>
 <a> <img src="https://user-images.githubusercontent.com/93780179/162127015-555f9dd9-f744-4f4f-9b52-ffaf4b6e67eb.png" width="500" height="285"> </a>
 <a> <img src="https://user-images.githubusercontent.com/93780179/162127023-29347f98-4f83-4356-8148-0801e4ddda40.png" width="500" height="285"> </a>
