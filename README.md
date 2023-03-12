@@ -1,5 +1,5 @@
 
-<img width="50%" margin="auto" src="https://user-images.githubusercontent.com/93780179/224520431-7bf8d665-32ce-46dc-ae10-44df3ae278cb.jpg"/>
+<img width="50%" align="center" src="https://user-images.githubusercontent.com/93780179/224520431-7bf8d665-32ce-46dc-ae10-44df3ae278cb.jpg"/>
 
 
 
@@ -32,15 +32,19 @@ const Bufalito = {
 
   <summary><b>💻 Estadísticas del perfil de GitHub</b></summary>
   <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Bufalito's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Bufalito&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+  <p>
+	 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bufalito&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" 		alt="Bufalito" height="192px"/>
 <br/>
   &nbsp;
 ----
 <br/>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bufalito&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Bufalito" height="192px"/>
-  <br/>
+	<a href="https://github.com/anuraghazra/github-readme-stats">
+		<img alt="Bufalito's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Bufalito&show_icons=true&count_private=true&theme=algolia" 			height="192px"/>
+	</a>
+<br/>
+	
   <b>Note:</b>Los idiomas principales son solo una métrica de los idiomas en los que se compone mi código público y no reflejan la experiencia o el nivel de habilidad.
+	
   </p>
 
 ----
@@ -63,7 +67,7 @@ const Bufalito = {
 <h4>E-Commerce</h4>
 <p>💬 Broken!
 <h4><a href="https://tech-store-dev.vercel.app/">E-Commerce-TechStore</a></h4>
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=EAgMrp_CoF0&ab_channel=matiasvaldez" frameborder="0" allowfullscreen></iframe>
+<video width="560" height="315" src="https://www.youtube.com/watch?v=EAgMrp_CoF0&ab_channel=matiasvaldez" autoplay/>
 <br/>
 Technologies: Node.JS - Express - PostgreSQL - React - Redux - TailwindCSS</p>
 ---
