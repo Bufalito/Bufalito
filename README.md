@@ -53,9 +53,9 @@ const Bufalito = {
 
 
 <h3 align="left">📌Proyectos:</h3>
-<h4>Dogs App</h4>
+<h1>Dogs App</h1>
 <p>Technologies: Node.JS - Express - PostgreSQL - React - Redux - CSS</p>
-<p width="100%" display="flex" flex-wrap="wrap" gap="4px">
+<p width="100%">
 <a> <img src="https://user-images.githubusercontent.com/93780179/162127006-2b9e8b72-eea3-4618-b0e1-8bdbfdc1d4ef.png" width="500" height="285"> </a>
 <a> <img src="https://user-images.githubusercontent.com/93780179/162127015-555f9dd9-f744-4f4f-9b52-ffaf4b6e67eb.png" width="500" height="285"> </a>
 <a> <img src="https://user-images.githubusercontent.com/93780179/162127023-29347f98-4f83-4356-8148-0801e4ddda40.png" width="500" height="285"> </a>
@@ -63,28 +63,39 @@ const Bufalito = {
 </p>
 <br>
 ---
-<h4>E-Commerce</h4>
+<h1>E-Commerce</h1>
 <p>💬 Broken!
 <h4><a href="https://tech-store-dev.vercel.app/">E-Commerce-TechStore</a></h4>
 <br/>
 Technologies: Node.JS - Express - PostgreSQL - React - Redux - TailwindCSS</p>
 ---
-<h4>Interactive Rating App</h4>
-<p>💬 Finished! 
+<h1>Interactive Rating Component</h1>
+<p>💬 Finished! </p>
 <h4><a href="https://rating-component-pablo.netlify.app/">Interactive Rating Component</a></h4>
-<br>
-Technologies: HTML-CSS-SASS-JavaScript</p>
+<p>Technologies: HTML-CSS-SASS-JavaScript</p>
+<p width="100%">
+<a> <img src="https://user-images.githubusercontent.com/93780179/224521986-58e82539-91a2-4faf-857a-a177eb31b67e.png" width="500" height="285"> </a>
+<a> <img src="https://user-images.githubusercontent.com/93780179/224521988-8e5e9854-ff29-4a70-aeb1-8be9f181deb4.png" width="500" height="285"> </a>
+<a> <img src="https://user-images.githubusercontent.com/93780179/224521981-009a6b5e-8064-4d61-b509-c8cfc7dab4d4.png" width="500" height="285"> </a>
+</p>
+<br/>
+
 ---
 <h4>NFT-preview-card-component</h4>
-<p>💬 Finished! 
+<p>💬 Finished! </p>
 <h4><a href="https://nft-preview-card-component-pablo.netlify.app/">NFT-preview-card-component</a></h4>
-<br>
-Technologies: HTML-CSS</p>
+<p>Technologies: HTML-CSS</p>
+<p width="100%">
+<a> <img src="https://user-images.githubusercontent.com/93780179/224522464-f16f6949-c28c-4a33-a170-c5427058a42a.png" width="500" height="285"> </a>
+<a> <img src="https://user-images.githubusercontent.com/93780179/224522425-f4d6bb3b-e47b-4c5b-8089-fa8dc9aa8db1.png" width="auto" height="285"> </a>
+</p>
+<br/>
+
 
 
 ---
 
-<h3 align="left">📪 How to reach me:</h3>
+<h3 align="left">📪 Como contactarme:</h3>
 <p align="left">
 Email: <a href="mailto:pablobojanich1@gmail.com">pablobojanich1@gmail.com</a>
 
