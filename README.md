@@ -1,9 +1,9 @@
 
-
-
-<h1><img width="15%" src="https://user-images.githubusercontent.com/93780179/224520431-7bf8d665-32ce-46dc-ae10-44df3ae278cb.jpg"/>
-	Hi 👋, I'm Pablo </h1>
-<h3> Un apasionado desarrollador web Argentino <img width="3%" src="https://user-images.githubusercontent.com/93780179/224521236-9b99f3e8-532a-4d32-862b-e40df65b7a71.png" /></h3>
+<p align="center" width="300">
+   <img align="center" width="200" src="https://user-images.githubusercontent.com/93780179/224520431-7bf8d665-32ce-46dc-ae10-44df3ae278cb.jpg" />
+   <h3 align="center">Hi 👋, I'm Pablo </h3>
+   <h3 align="center"> Un apasionado desarrollador web Argentino <img width="3%" src="https://user-images.githubusercontent.com/93780179/224521236-9b99f3e8-532a-4d32-862b-e40df65b7a71.png" /></h3>
+</p>
 
 ```JS
 const Bufalito = {
@@ -31,21 +31,8 @@ const Bufalito = {
 
   <summary><b>💻 Estadísticas del perfil de GitHub</b></summary>
   <br/>
-  <p>
-	 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bufalito&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" 		alt="Bufalito" height="192px"/>
-<br/>
-  &nbsp;
-----
-<br/>
-	<a href="https://github.com/anuraghazra/github-readme-stats">
-		<img alt="Bufalito's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Bufalito&show_icons=true&count_private=true&theme=algolia" 			height="192px"/>
-	</a>
-<br/>
-	
-  <b>Nota:</b>Los idiomas principales son solo una métrica de los idiomas en los que se compone mi código público y no reflejan la experiencia o el nivel de habilidad.
-	
-  </p>
-
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bufalito&show_icons=true&locale=en&layout=compact" alt="bufalito" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=bufalito&show_icons=true&locale=en" alt="bufalito" /></p>
+ 
 ----
 
 <br/>
