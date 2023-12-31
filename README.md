@@ -9,20 +9,20 @@
 const Bufalito = {
   Skills: {
       BackEnd: [
-          {JavaScript: ['NodeJs', 'Express', 'Sequelize']},
+          {JavaScript: ['NodeJs', 'Express', 'Sequelize', 'SQL Server', '.NET']},
         ],
       FrontEnd: [
-          {JavaScript: ['React', 'Redux', 'CSS' , 'HTML']}
+          {JavaScript: ['React', 'Angular', 'TypeScript', 'Redux', 'CSS' , 'HTML']}
         ]
     },
   Proyectos: [
       {Ecommerce: ['React', 'Redux', 'NodeJs', 'Express', 'Sequelize', 'CSS' , 'TailwindCSS']},
       {OficinaVirtual: ['React', 'HTML', 'CSS']},
-      {Harvey: ['React', 'HTML', 'CSS']}
+      {Harvey: ['React', 'HTML', 'CSS']},
+      {SGD Provisiones: ['Angular', 'TypeScript', 'SCSS', '.NET']}
     ],
-  TecnologiasFuturas: ['PHP', 'Astro', 'Next.Js', 'Go',],
-  Aspiraciones: ['FrontEnd Developer', 'CloudComputing', 'MachineLearning']
-}
+  TecnologiasFuturas: ['Astro', 'Next.Js', 'Go',]
+  }
 ```
 
 ## 📊 Github Stats
