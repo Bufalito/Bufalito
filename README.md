@@ -26,14 +26,11 @@ const Bufalito = {
 ```
 
 ## 📊 Github Stats
-
+  <summary><b>💻 Estadísticas del perfil de GitHub</b></summary>
+  <br/>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Bufalito&locale=es&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-  <summary><b>💻 Estadísticas del perfil de GitHub</b></summary>
-  <br/>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bufalito&show_icons=true&locale=en&layout=compact" alt="bufalito" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=bufalito&show_icons=true&locale=en" alt="bufalito" /></p>
  
 ----
 
