@@ -24,8 +24,7 @@ const Bufalito = {
   }
 ```
 
-<h3 align="left">📪 Como contactarme:</h3>
-###
+## 📪 Contacto
 <div align="left">
   <a href="https://www.linkedin.com/in/pablo-mateo-bojanich-developer" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -37,7 +36,10 @@ const Bufalito = {
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
-###
+
+<img src="https://raw.githubusercontent.com/bufalito/bufalito/output/snake.svg" alt="Snake animation" />
+
+----
 
 ## 📊 Github Stats
   <summary><b>💻 Estadísticas del perfil de GitHub</b></summary>
