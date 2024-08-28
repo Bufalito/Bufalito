@@ -1,8 +1,3 @@
-<div align="center">
-  <img src="https://profile-counter.glitch.me/bufalito/count.svg?"  />
-</div>
-###
-
 <p align="center" width="300">
    <img align="center" width="200" src="https://user-images.githubusercontent.com/93780179/224520431-7bf8d665-32ce-46dc-ae10-44df3ae278cb.jpg" />
    <h3 align="center">Hi 👋, I'm Pablo </h3>
@@ -34,6 +29,10 @@ const Bufalito = {
   <br/>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Bufalito&locale=es&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/bufalito/count.svg?"  />
 </div>
  
 ----
