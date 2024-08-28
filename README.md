@@ -37,7 +37,7 @@ const Bufalito = {
   </a>
 </div>
 
-<img src="https://raw.githubusercontent.com/bufalito/bufalito/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Bufalito/Bufalito/output/snake.svg" alt="Snake animation" />
 
 ----
 
