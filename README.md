@@ -11,7 +11,7 @@ const Bufalito = {
           {JavaScript: ['NodeJs', 'Express', 'Sequelize', 'SQL Server', '.NET']},
         ],
       FrontEnd: [
-          {JavaScript: ['React', 'Angular', 'TypeScript', 'Redux', 'CSS' , 'HTML']}
+          {JavaScript: ['Vue' ,'React', 'Angular', 'TypeScript', 'Redux', 'CSS' , 'HTML']}
         ]
     },
   Proyectos: [
