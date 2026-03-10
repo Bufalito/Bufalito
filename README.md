@@ -3,31 +3,58 @@
 </div>
 
 ###
-
-<p align="center" width="300">
-   <img align="center" width="350" height="350" alt="ChatGPT Image 2 dic 2025, 10_54_36 a m  (1)" src="https://github.com/user-attachments/assets/2e7cee17-8f76-4b97-8ab7-bd1a1ecd458f" />
-   <h3 align="center">Hi 👋, I'm Pablo </h3>
-   <h3 align="center"> Un apasionado desarrollador web Argentino <img width="3%" src="https://user-images.githubusercontent.com/93780179/224521236-9b99f3e8-532a-4d32-862b-e40df65b7a71.png" /></h3>
-</p>
-
 ```JS
 const Bufalito = {
+  AboutMe: [
+      {name: "Pablo Bojanich"},
+      {role: "Full-Stack Developer"},
+      {focus: "Building SaaS products and scalable systems"},
+      {location: "Pergamino, Buenos Aires, Argentina"},
+      {website: "https://www.pablobojanich.com.ar"}
+    ],
+
   Skills: {
       BackEnd: [
-          {JavaScript: ['NodeJs', 'Express', 'Sequelize', 'SQL Server', '.NET']},
+          {JavaScript: ['Node.js', 'NestJS', 'Express', 'Sequelize']},
+          {PHP: ['Laravel']},
+          {CSharp: ['.NET', 'ASP.NET Core', 'SignalR']},
+          {Databases: ['MySQL', 'SQL Server']},
+          {Architecture: ['REST APIs', 'Microservices', 'Clean Architecture', 'JWT Authentication']}
         ],
+
       FrontEnd: [
-          {JavaScript: ['Vue' ,'React', 'Angular', 'TypeScript', 'Redux', 'CSS' , 'HTML']}
+          {JavaScript: ['Angular', 'Vue', 'React', 'TypeScript', 'Redux']},
+          {UI: ['PrimeNG', 'PrimeVue', 'TailwindCSS', 'SCSS', 'CSS', 'HTML']},
+          {DataVisualization: ['Chart.js', 'Highcharts']}
+        ],
+
+      DevOps: [
+          {Tools: ['Docker', 'Vercel', 'Railway', 'Linux', 'Nginx']}
+        ],
+
+      Tools: [
+          {Development: ['Git', 'GitHub', 'Notion', 'Postman', 'Figma']}
         ]
     },
-  Proyectos: [
-      {Ecommerce: ['React', 'Redux', 'NodeJs', 'Express', 'Sequelize', 'CSS' , 'TailwindCSS']},
-      {OficinaVirtual: ['React', 'HTML', 'CSS']},
-      {Harvey: ['React', 'HTML', 'CSS']},
-      {SGD Provisiones: ['Angular', 'TypeScript', 'SCSS', '.NET']}
+
+  Projects: [
+      {GuardiAR: ['Angular', 'Nest.Js', 'MySQL', 'Docker', 'REST API']},
+      {Stockia: ['Angular', '.NET Core', 'NotionAPI']},
+      {Logistiar: ['Next.Js', 'TypeScript ,'NotionAPI']},
+      {EnterpriseSystems: ['Angular', '.NET', 'SQL Server']}
     ],
-  TecnologiasFuturas: ['Astro', 'Next.Js', 'Go',]
-  }
+
+  ProjectDescriptions: [
+      {GuardiAR: 'Plataforma para gestión de guardias médicas'},
+      {Stockia: 'Sistema SaaS de gestión comercial e inventario'},
+      {Logistiar: 'Software para gestión de operaciones logísticas'},
+      {EnterpriseSystems: 'Sistemas empresariales para operaciones industriales y logísticas'}
+    ],
+
+  LearningNext: [
+      {FutureTech: ['Astro', 'Go', 'AI Agents']}
+    ]
+}
 ```
 
 ## 📪 Contacto
