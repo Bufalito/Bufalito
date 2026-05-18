@@ -39,14 +39,14 @@ const Bufalito = {
 
   Projects: [
       {GuardiAR: ['Angular', 'Nest.Js', 'MySQL', 'Docker', 'REST API']},
-      {Stockia: ['Angular', '.NET Core', 'NotionAPI']},
+      {Warely: ['Angular', '.NET Core', 'NotionAPI']},
       {Logistiar: ['Next.Js', 'TypeScript ,'NotionAPI']},
       {EnterpriseSystems: ['Angular', '.NET', 'SQL Server']}
     ],
 
   ProjectDescriptions: [
       {GuardiAR: 'Plataforma para gestión de guardias médicas'},
-      {Stockia: 'Sistema SaaS de gestión comercial e inventario'},
+      {Warely: 'Sistema SaaS de gestión comercial e inventario'},
       {Logistiar: 'Software para gestión de operaciones logísticas'},
       {EnterpriseSystems: 'Sistemas empresariales para operaciones industriales y logísticas'}
     ],
