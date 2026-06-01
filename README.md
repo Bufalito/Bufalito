@@ -39,8 +39,8 @@ const Bufalito = {
 
   Projects: [
       {GuardiAR: ['Angular', 'Nest.Js', 'MySQL', 'Docker', 'REST API']},
-      {Warely: ['Angular', '.NET Core', 'NotionAPI']},
-      {Logistiar: ['Next.Js', 'TypeScript ,'NotionAPI']},
+      {Warely: ['Angular', '.NET Core', 'PostgreSQL']},
+      {Logistiar: ['Next.Js', 'TypeScript ,'PostgreSQL']},
       {EnterpriseSystems: ['Angular', '.NET', 'SQL Server']}
     ],
 
